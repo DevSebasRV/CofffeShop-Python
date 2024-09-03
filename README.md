@@ -1,2 +1,2 @@
 # CofffeShop-Python
-App web para el manejo de un coffee shop
+App web Desarrollada en Django para el manejo de un coffee shop
